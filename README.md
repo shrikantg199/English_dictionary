@@ -1,4 +1,6 @@
-# English Dictionary
+# English Dictionary 📖
+
+A simple and elegant dictionary web app that allows you to instantly search for meanings and pronunciations of English words. 
 
 ## Description
 
@@ -8,37 +10,27 @@ Once a term is searched, the app displays the word, its meaning, and an audio pl
 
 The app is fully responsive and works seamlessly on mobile, tablet, and desktop screen sizes. The simple and intuitive interface allows for easy search of any English word.
 
-## Features
+## Key Features ✨
 
-- Search for any English word and get the meaning and audio pronunciation
-- Clean minimal interface with search input field
-- Responsive design works on all devices
-- Clear display of word meaning
-- Audio clip for pronunciation of word
+- Effortless word search 🔎
+- Clean, minimalist UI for optimal UX 😃
+- Fast results from Dictionary API 🚀 
+- Audio pronunciations of words 📢
+- Fully responsive across devices 📱
 
-## Built With
+## Tech Stack 🛠️
 
-- HTML
-- CSS
-- JavaScript
-- [Dictionary API](https://dictionaryapi.dev/)
+- **Frontend:** HTML, CSS, JavaScript 
+- **API:** Dictionary API 
 
-## Usage
+## Usage 👨‍💻
 
-### Search for a word
+1. Enter a word in the search bar
+2. Hit enter or click the search button 
+3. Meaning and pronunciation will appear instantly
 
-Type a word in the search bar and press enter or click the search icon. The meaning of the word will be displayed along with an audio clip of the pronunciation.
 
-### Responsive design
 
-The app is designed to be responsive across desktop, tablet and mobile screens. 
+## License 📃
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is open source and available under the [MIT License](LICENSE).
